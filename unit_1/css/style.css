@@ -1,5 +1,10 @@
 body {
-	background-color: black;
+  background: url("file:///Users/leepham/Desktop/HTML,%20CSS%20&%20Web%20Design%20Circuit/lpham336.github.io/unit_3/images/moon-4045088_1920.jpg");
+  background-size: cover;
+  color: ffffff;
+  text-align: left;
 }
-h1, p {color: white;
+h1 {font-size: large;
+}
+p {font-size: small;
 }
