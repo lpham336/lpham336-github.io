@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Gelasio&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+body {
+  background: url("https://github.com/lpham336/lpham336.github.io/blob/master/unit_3/images/moon-4045088_1920.jpg?raw=true");
+  background-size: cover;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Inconsolata', monospace;
+  line-height: 1.5em;
+  margin: 2em;
+
+}
+
+ h1 {
+ 	color: #ffffff;
+ 	font-family: 'Gelasio', serif;
+ 	line-height: 1.5em;
+ 	margin: 2em;
+
+}
+article {
+    background-color: #E90C6C;
+    border: 1px black solid;
+    padding: 20px;
